@@ -1,5 +1,5 @@
 title: Project Hexagon
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
 aux_links: "GitHub Repository": "https://github.com/muskaanX/Hexagon"
