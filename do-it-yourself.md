@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do-It-Yourself
-nav_order: 2
+nav_order: 4
 ---
 
 # Do-It-Yourself
