@@ -5,3 +5,5 @@ search_enabled: true
 
 aux_links:
   "GitHub Repository": "https://github.com/muskaanX/Hexagon"
+
+verbose: true
