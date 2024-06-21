@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Do-It-Yourself
+parent: Home
 nav_order: 4
 ---
 
