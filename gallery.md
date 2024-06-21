@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gallery
+parent: Home
 nav_order: 8
 ---
 
