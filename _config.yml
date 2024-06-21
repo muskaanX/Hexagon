@@ -2,4 +2,6 @@ title: Project Hexagon
 remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
-aux_links: "GitHub Repository": "https://github.com/muskaanX/Hexagon"
+
+aux_links:
+  "GitHub Repository": "https://github.com/muskaanX/Hexagon"
