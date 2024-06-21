@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Milestones
+parent: Home
 nav_order: 7
 ---
 
