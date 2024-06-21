@@ -5,3 +5,19 @@ search_enabled: true
 
 aux_links:
   "GitHub Repository": "https://github.com/muskaanX/Hexagon"
+
+# Build settings
+markdown: kramdown
+
+# Navigation
+nav_order: 1
+docs:
+  - title: "Home"
+    url: /
+    nav_order: 1
+  - title: "Working"
+    url: /working
+    nav_order: 2
+  - title: "Features"
+    url: /features
+    nav_order: 3
