@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Advanced
+parent: Home
 nav_order: 5
 ---
 
