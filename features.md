@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Features
-parent: Home
 nav_order: 3
 ---
 
