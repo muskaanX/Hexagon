@@ -4,6 +4,6 @@ parent: Home
 nav_order: 2
 ---
 
-# Section Title
+# About
 
 Content for this section.
