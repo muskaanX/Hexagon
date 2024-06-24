@@ -8,6 +8,8 @@ has_children: true
 
 This is the main page for this static site.
 
-|   |   |
-|---|---|
-| ![Red Square](https://via.placeholder.com/100/ff0000/000000?text=+) | ![Blue Square](https://via.placeholder.com/100/0000ff/000000?text=+) |
+[![Hexagon](/assets/images/hexagon.png "Base Hexagon")]
+
+<br>
+<iframe  width="100%" height="500" src="https://www.youtube.com/embed/fhsjhfgjgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
