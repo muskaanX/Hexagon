@@ -8,5 +8,9 @@ aux_links:
   "GitHub Repository": "https://github.com/muskaanX/Hexagon"
 
 include:
-  - _includes
-  - assets/css/style.css
+  - _sass/custom/custom.scss
+
+just_the_docs:
+  aux_links:
+    "Custom CSS":
+      - assets/css/style.css
