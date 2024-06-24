@@ -9,9 +9,3 @@ aux_links:
 
 include:
   - _sass/custom/custom.scss
-
-# Remove this block if not necessary
-just_the_docs:
-  aux_links:
-    "Custom CSS":
-      - assets/css/style.css
