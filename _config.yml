@@ -6,13 +6,3 @@ nav_enabled: true
 
 aux_links:
   "GitHub Repository": "https://github.com/muskaanX/Hexagon"
-
-include:
-  - _sass/custom/custom.scss
-
-sass:
-  sass_dir: _sass
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sass-converter
