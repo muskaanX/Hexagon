@@ -6,6 +6,8 @@ has_children: true
 
 # Welcome to Project Hexagon!
 
+<br>
+
 Project Hexagon features a hexagonal graph model, one that is expandable via attachments, through which various patterns can be traced alongside the edges with the LED strips attached to them.
 
 ![Hexagon](/assets/images/hexagon.png)
