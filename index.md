@@ -8,7 +8,7 @@ has_children: true
 
 This is the main page for this static site.
 
-[![Hexagon](/assets/images/hexagon.png "Base Hexagon")]
+[![Hexagon](/assets/hexagon.png "Base Hexagon")]
 
 <br>
 <iframe  width="100%" height="500" src="https://www.youtube.com/embed/fhsjhfgjgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
