@@ -7,7 +7,6 @@ nav_enabled: true
 aux_links:
   "GitHub Repository": "https://github.com/muskaanX/Hexagon"
 
-# Include the SCSS file
 include:
   - _sass/custom/custom.scss
 
