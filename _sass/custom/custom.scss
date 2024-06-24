@@ -9,68 +9,65 @@ body {
 
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
-    color: #810CA8; /* Purple color for headers */
+    color: #810CA8 !important; /* Purple color for headers */
 }
 
 /* Links */
 a {
-    color: #C147E9; /* Light Purple color for links */
-    text-decoration: none;
+    color: #C147E9 !important; /* Light Purple color for links */
+    text-decoration: none !important;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
-/* Code blocks */
-pre {
-    background-color: #2D033B; /* Dark Purple background for code blocks */
-    color: #E5B8F4; /* Very Light Purple text for code */
-    padding: 15px;
-    border-radius: 5px;
-    overflow: auto;
+/* Navigation Bar */
+.nav {
+    background-color: #810CA8 !important; /* Purple background for the nav bar */
 }
 
-code {
-    background-color: #810CA8; /* Purple background for inline code */
-    color: #E5B8F4; /* Very Light Purple text for inline code */
-    padding: 2px 4px;
-    border-radius: 3px;
+.nav a {
+    color: #E5B8F4 !important; /* Very Light Purple color for nav links */
+}
+
+.nav a:hover {
+    color: #C147E9 !important; /* Light Purple color for nav links on hover */
 }
 
 /* Tables */
 table {
-    border-collapse: collapse;
-    width: 100%;
+    border-collapse: collapse !important;
+    width: 100% !important;
 }
 
 th, td {
-    border: 1px solid #810CA8; /* Purple border for table cells */
-    padding: 8px;
+    border: 1px solid #810CA8 !important; /* Purple border for table cells */
+    padding: 8px !important;
 }
 
 th {
-    background-color: #C147E9; /* Light Purple background for table headers */
-    color: #2D033B; /* Dark Purple text */
+    background-color: #C147E9 !important; /* Light Purple background for table headers */
+    color: #2D033B !important; /* Dark Purple text */
 }
 
 /* Lists */
 ul, ol {
-    padding-left: 20px;
+    padding-left: 20px !important;
 }
 
 /* Blockquotes */
 blockquote {
-    margin: 0;
-    padding: 10px 20px;
-    background-color: #C147E9; /* Light Purple background for blockquotes */
-    border-left: 5px solid #810CA8; /* Purple left border */
-    color: #2D033B; /* Dark Purple text */
+    margin: 0 !important;
+    padding: 10px 20px !important;
+    background-color: #C147E9 !important; /* Light Purple background for blockquotes */
+    border-left: 5px solid #810CA8 !important; /* Purple left border */
+    color: #2D033B !important; /* Dark Purple text */
 }
 
 /* Horizontal rules */
 hr {
-    border: 0;
-    height: 1px;
-    background-color: #810CA8; /* Purple color for horizontal rules */
+    border: 0 !important;
+    height: 1px !important;
+    background-color: #810CA8 !important; /* Purple color for horizontal rules */
 }
